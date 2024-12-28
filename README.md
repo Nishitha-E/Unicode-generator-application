@@ -16,9 +16,6 @@ A simple yet functional web-based application that allows users to instantly fet
 2. Click on the "Detect" button.  
 3. Instantly view the Unicode value of the entered character.  
 
-## 🌐 Live Preview  
-(Include a link to your GitHub Pages or live project, if available)  
-
 ## 💡 What I Learned  
 - Implementing dynamic interactivity using JavaScript.  
 - Using `charCodeAt()` to retrieve Unicode values.  
